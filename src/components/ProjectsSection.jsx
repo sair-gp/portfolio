@@ -12,8 +12,8 @@ const projects = [
   },
   {
     id: 2,
-    title: "Woof Airlines",
-    description: "The best fucking project in the world (please hire me)",
+    title: "Subito",
+    description: "Youtube transcriber",
     image: "projects/project2.png",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoURL: "#",
@@ -21,8 +21,8 @@ const projects = [
   },
   {
     id: 3,
-    title: "TWP",
-    description: "The best fucking project in the world (please hire me)",
+    title: "Guaumigo",
+    description: "Dog dating app! Help your best friend find its guaumigo!",
     image: "projects/project3.png",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoURL: "#",
